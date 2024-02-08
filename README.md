@@ -18,6 +18,11 @@ The project in development since 2020, aims for a Q2 Beta Release on TestFlight 
 
 <img src="https://github.com/techrcoder/Assisty/assets/81099468/0ec4894d-41e0-4e95-8faf-ac9182af9517"  width="200" >
 
+Here are a few pics of the Assisty ML running for an instance where the user demands to be reminded of the task. Very similar to Siri and this was the initial use case, a few others have been included: Find Free Time, Contact [...], Get weather, Set up Event, Show tasks under project, Create Project/Task/Idea/Space/other Assisty instances. Comprehensive and always adding new objects to the ML model (created and hosted using Create ML framework)
+
+<img src="https://github.com/techrcoder/Assisty/assets/81099468/47b307fe-1d63-410d-a1f6-3b34a27f8e89" width="200">
+
+<img src="https://github.com/techrcoder/Assisty/assets/81099468/c37d68f6-5958-4945-ba0d-0808707dc311" width="200">
 
 ## Productivity First
 The app takes into account efficiency needs and organizes everything in a visually pleasing manner that is easy to navigate with all the tools tucked into the right places. You can organize tasks in many ways and forms, you have inbox ideas which are general things for the future, and specific tasks that can be assigned to a day and time using Assisty's Chrono ML. Easily switch between Tasks and Ideas for maximum ease as your task list changes dynamically.
