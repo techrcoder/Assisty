@@ -1,7 +1,13 @@
 # Assisty
 ML powered organization tool. In development iOS app with beta-launch planned for Q2 2024. Focus on productivity and helping visually plan day-to-day life as a student (or if you older and working)
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-08 at 23 42 52](https://github.com/techrcoder/Assisty/assets/81099468/4dabb21d-0a1a-46ad-9ab0-93cabeced381)
+<img src="https://github.com/techrcoder/Assisty/assets/81099468/4dabb21d-0a1a-46ad-9ab0-93cabeced381" align="left" width="200"  >
+
+<img src="https://github.com/techrcoder/Assisty/assets/81099468/3c28dee2-2763-490a-b406-e9192505e35b" align="left" width="200" >
+
+<img src="https://github.com/techrcoder/Assisty/assets/81099468/d5b63d4d-9859-4917-ac40-efa35fa2ef99" align="left" width="200" >
+
+<img src="https://github.com/techrcoder/Assisty/assets/81099468/b4b34310-7b46-43b8-9f3c-b548ee4365d6" align="left" width="200" >
 
 
 ## Productivity First
