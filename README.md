@@ -1,6 +1,8 @@
 # Assisty
 ML powered organization tool. In development iOS app with beta-launch planned for Q2 2024. Focus on productivity and helping visually plan day-to-day life as a student.
 
+Check out the TestFlight Beta! <a href="https://testflight.apple.com/join/grjyECa8"> Join the Assisty 4 Beta </a>
+
 ## Project Background Info
 This project was started after the COVID-19 lockdowns in France. Developed using Swift (SwiftUI + UIKit mix), bits of Java, some Ojbective-C, Create-ML and Python. I am a high school junior studying the IB, graduating class of 2025. This has been my passion project for much of the last few years as a way to explore coding, computer science, and more recently AI. I started coding in 3rd Grade after taking a class at UCode in Los Angeles. This project combines local-ML processes with productivity focused structures to provide a complete experience. 
 
