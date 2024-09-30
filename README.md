@@ -1,5 +1,5 @@
 # Assisty
-ML powered organization tool. In development iOS app with beta-launch planned for Q2 2024. Focus on productivity and helping visually plan day-to-day life as a student.
+ML powered organization tool. In development iOS app, beta launched Q2 2024. Public Release for Q2 2025. Focus on productivity and helping visually plan day-to-day life as a student.
 
 Check out the TestFlight Beta! <a href="https://testflight.apple.com/join/grjyECa8"> Join the Assisty 4 Beta </a>
 
