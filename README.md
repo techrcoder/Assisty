@@ -29,3 +29,12 @@ Here are a few pics of the Assisty ML running for an instance where the user dem
 ## Productivity First
 The App takes into account personal efficiency needs and organizes everything in a visually pleasing manner that is easy to navigate with all the tools tucked into the right places. It can organize tasks in many ways and forms, it has inbox ideas which are general things for the future, and specific tasks that can be assigned to a day and time using Assisty's Chrono ML. The App easily switches between Tasks and Ideas for maximum ease as the task list changes dynamically.
 
+## What's Going on Right Now
+Currently, the UI is mostly finished and so are the Assistant features, I am working on refining model performance and introducing new methods to better interpret user actions. This will improve the intuition. I am also ironing out issues and updating frameworks to meet Apple's latest standards, as much of the foundation work was done prior to the latest revisions to SwiftuI and UIKit. 
+
+This process has been unfortunately delayed by at least 6 months due to university applications and the workload of my current highschool diploma (the International Baccaleareate), but it is almost over and I am very excited to get back, finish, and release Assisty, the product of many years of work and learning. 
+
+-Rohan
+
+Check me out on LinkedIn: https://www.linkedin.com/in/rohanp1/ 
+
