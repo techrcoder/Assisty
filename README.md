@@ -3,7 +3,10 @@ ML powered organization tool. In development iOS app, beta launched Q2 2024. Pub
 
 Check out the TestFlight Beta! <a href="https://testflight.apple.com/join/grjyECa8"> Join the Assisty 4 Beta </a>
 
-!!! The current TestFlight build has expired, I will be releasing a new one in January 2025. Email me at rohanpatel123@gmail.com if you have any requests for information on the status of this project. 
+**Warning:** I have lost access to my developer account and am in the process of reclaiming/transferring it. This means that I am unable to launch my latest updates to testflight. Currently the iPad os version of the app is stuck with developer tools that I had mistakenly set to auto=true on and cannot be removed as that feature did not get sent with the updates to the beta before I lost access to the acount. My apologies for any incovenience, I will post back here whence I have new betas from a new developer account. <br>
+  -Rohan
+
+Email me at rohanpatel123@gmail.com if you have any requests for information on the status of this project and/or for other inquiries. 
 
 ## Project Background Info
 This project was started after the COVID-19 lockdowns in France. Developed using Swift (SwiftUI + UIKit mix), bits of Java, some Ojbective-C, Create-ML and Python. I am a high school junior studying the IB, graduating class of 2025. This has been my passion project for much of the last few years as a way to explore coding, computer science, and more recently AI. I started coding in 3rd Grade after taking a class at UCode in Los Angeles. This project combines local-ML processes with productivity focused structures to provide a complete experience. 
